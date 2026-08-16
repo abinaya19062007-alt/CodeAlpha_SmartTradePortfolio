@@ -48,3 +48,6 @@ SmartTradePortfolio/
 
 <img width="1878" height="942" alt="image" src="https://github.com/user-attachments/assets/dfc10adc-300e-45ff-a719-1604531079e7" />
 
+## SmartTradePortfolio
+<img width="1887" height="968" alt="image" src="https://github.com/user-attachments/assets/746215e5-3b01-4c90-81a3-1e18342d441e" />
+
