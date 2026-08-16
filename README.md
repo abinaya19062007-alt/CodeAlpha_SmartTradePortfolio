@@ -41,3 +41,10 @@ SmartTradePortfolio/
 ├── smarttrade_portfolio.csv
 ├── README.md
 └── .gitignore
+
+```
+
+## Project Screenshot
+
+<img width="1878" height="942" alt="image" src="https://github.com/user-attachments/assets/dfc10adc-300e-45ff-a719-1604531079e7" />
+
